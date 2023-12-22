@@ -20,8 +20,6 @@ const About = () => {
             </h4>
             <p className="text-lg">
             I am a computer science student at the University of Washington. Having lived and studied in four of the biggest cities around the world (Seoul, Beijing, Shanghai, and Seattle), I am deeply engaged with the grand challenges of our world and passionate to tackle them using technology. I am also interested in the universe, researching habitable exoplanets and finding solutions to mega-constellations.
-
-            In my free time, I like to stargaze, play baseball, and solve Rubik's Cube.
             </p>
         </div>
     </motion.div>
