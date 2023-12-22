@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/william-portfolio/static/css/main.12541ab8.css",
+    "main.js": "/william-portfolio/static/js/main.1cc14ec0.js",
+    "static/media/Matplotlib.png": "/william-portfolio/static/media/Matplotlib.1f3cb36363d0eb2c163f.png",
+    "static/media/Autodesk.png": "/william-portfolio/static/media/Autodesk.566675c79707896f9a6f.png",
+    "static/media/EYEternal.PNG": "/william-portfolio/static/media/EYEternal.2693595cf1b698d6fd4f.PNG",
+    "static/media/Java.png": "/william-portfolio/static/media/Java.86407ffa56ebe1f70b6a.png",
+    "static/media/C++.png": "/william-portfolio/static/media/C++.fc461cc8303a38559c80.png",
+    "index.html": "/william-portfolio/index.html",
+    "main.12541ab8.css.map": "/william-portfolio/static/css/main.12541ab8.css.map",
+    "main.1cc14ec0.js.map": "/william-portfolio/static/js/main.1cc14ec0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12541ab8.css",
+    "static/js/main.1cc14ec0.js"
+  ]
+}
